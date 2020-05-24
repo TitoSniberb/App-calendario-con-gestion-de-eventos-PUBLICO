@@ -7,11 +7,13 @@ This is an agenda made for the company Consultia Travel
 ![](app-start.gif)
 
 ### Calendar navigation
-![](app-start.gif)
+![](navigation.gif)
 
 ### Event details
+* **Different country recommendations**
 ![](recommendation.gif)
 
+* **Additional information about the event**
 ![](tickets.gif)
 
 ### Meteorology
