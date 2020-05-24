@@ -1,11 +1,21 @@
-# Project Title
+# Consultia Travel event agenda
+This is an agenda made for the company Consultia Travel
 
-Consultia Travel event handler
+# Demo
 
-#Demo
-
-###
+### App start
 ![](app-start.gif)
+
+### Calendar navigation
+![](app-start.gif)
+
+### Event details
+![](recommendation.gif)
+
+![](tickets.gif)
+
+### Meteorology
+![](meteo.gif)
 
 ## Built With
 
