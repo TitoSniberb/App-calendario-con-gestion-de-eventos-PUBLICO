@@ -11,9 +11,11 @@ This is an agenda made for the company Consultia Travel
 
 ### Event details
 * **Different country recommendations**
+
 ![](recommendation.gif)
 
 * **Additional information about the event**
+
 ![](tickets.gif)
 
 ### Meteorology
