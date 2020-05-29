@@ -1,16 +1,27 @@
 # Consultia Travel event agenda
-This is an agenda made for the company Consultia Travel
+This is an agenda made for the company Consultia Travel.
 
 # Demo
+At first I started doing it with React Native(my favourite framework) but later on we decided to continue with Ionic, so the React version of the app is not completly finished.
 
 ### App start
+Ionic
+
 ![](app-start.gif)
 
 ### Calendar navigation
+Ionic
+
 ![](navigation.gif)
+
+React Native
+
+![](navigation-react.png)
 
 ### Event details
 * **Different country recommendations**
+
+Ionic
 
 ![](recommendation.gif)
 
@@ -18,12 +29,25 @@ This is an agenda made for the company Consultia Travel
 
 ![](tickets.gif)
 
+* **Event details**
+
+React Native
+
+![](event-react)
+
 ### Meteorology
+Ionic
+
 ![](meteo.gif)
+
+React Native
+
+![](meteo-react.gif)
 
 ## Built With
 
-* [Ionic](https://ionicframework.com/docs) - The app framework used
+* [Ionic](https://ionicframework.com/docs)
+* [React Native](https://ionicframework.com/docs)
 
 ## Authors
 
