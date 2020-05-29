@@ -42,12 +42,12 @@ Ionic
 
 React Native
 
-![](meteo-react.gif)
+![](meteo-react.png)
 
 ## Built With
 
 * [Ionic](https://ionicframework.com/docs)
-* [React Native](https://ionicframework.com/docs)
+* [React Native](https://reactnative.dev/docs/getting-started)
 
 ## Authors
 
