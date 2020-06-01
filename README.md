@@ -33,7 +33,7 @@ Ionic
 
 React Native
 
-![](event-react)
+![](event-react.png)
 
 ### Meteorology
 Ionic
