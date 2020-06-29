@@ -2,6 +2,7 @@
 This is an agenda made for the company Consultia Travel.
 
 # Demo
+https://www.youtube.com/watch?v=b-h6zYijcTU
 At first I started doing it with React Native(my favourite framework) but later on we decided to continue with Ionic, so the React version of the app is not completly finished.
 
 ### App start
